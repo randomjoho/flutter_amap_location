@@ -20,7 +20,7 @@ import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.PluginRegistry.Registrar;
 
 /**
- * FlutterAmapLocationPlugin
+ * FlutterAmapLocationPlugin my
  */
 public class AmapLocationPlugin implements MethodCallHandler, AMapLocationListener {
 
