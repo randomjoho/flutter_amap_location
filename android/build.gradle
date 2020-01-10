@@ -43,5 +43,5 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 //    implementation 'com.amap.api:location:latest.integration'
-    implementation files('src/main/libs/AMap_Location_V4.7.1_20190803.jar')
+//    implementation files('src/main/libs/AMap_Location_V4.7.1_20190803.jar')
 }
